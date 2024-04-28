@@ -1,6 +1,19 @@
 {
-    "intro": "Selamat datang",
+    "intro":"*Selamat Datang Pembawa Keberuntungan😊* \n*Saya Chat Bot Matic Fortune*\n \nSaya akan memandu anda untuk memahami Matic Fortune, silakan pilih Menu untuk memulai: \n\nWhatsApp Group https://chat.whatsapp.com/FSgwFy7seFXCJ4AXBXmeWmn\n\nTeleGroup https://t.me/maticfortuneglobalsupport\n \nWeb Support https://maticfortuneglobal.github.io/pro/?ref=",
+    "intromarketingplan":"*Selamat Datang Pembawa Keberuntungan😊* \n*Saya Chat Bot Matic Fortune*\n \nSaya akan memandu anda untuk memahami Matic Fortune, silakan pilih Menu untuk memulai: \n\nTeleGroup https://t.me/maticfortuneglobalsupport\n \nWeb Support https://maticfortuneglobal.github.io/pro/?ref=",
     "template.menu": "Ketik angka *{{number}}* : untuk *{{menu}}*",
-    "menu.daftarProduk": "🧰 Daftar Produk",
-    "menu.alamatKantor": "Alamat Kantor"
+    "menu.daftarProduk": "Apa itu Matic Fortune?",
+    "menu.marketingplan": "Marketing Plan",
+    "menu.wallet": "Install dan Set Up Dompet Kripto",
+    "menu.isiwallet": "Isi Dompet dan Pendaftaran",
+    "menu.alamatKantor": "Support dan Pengembangan",
+    
+    "menu.k1": "Bonus Matrix Plan X3 sebesar 80% omzet",
+    "menu.k2": "Bonus Matrix Plan X6 sebesar 80% omzet",
+    "menu.k3": "Bonus Dividend dari 20% omzet global",
+    "menu.k4": "",
+    "menu.k5": "",
+
+    "menu.exit" : " Keluar "
+    
 }
